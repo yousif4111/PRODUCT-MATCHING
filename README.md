@@ -11,7 +11,6 @@ Data preprocessing and cleaning
 
 Feature Extraction:
 	Text:
-	
 		Transformer-Based Feature Extraction
 	
 		TF-IDF
