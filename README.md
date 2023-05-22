@@ -10,13 +10,11 @@ Online Retails company is a company that offers its service as an open online ma
 Data preprocessing and cleaning
 
 Feature Extraction:
+	
 	Text:
 		Transformer-Based Feature Extraction
-	
 		TF-IDF
-	
 	Image:
-	
 		Pre-traing CNN
 
 Modeling
