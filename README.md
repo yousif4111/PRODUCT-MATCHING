@@ -9,17 +9,20 @@ Online Retails company is a company that offers its service as an open online ma
 
 Data preprocessing and cleaning
 
-Feature Extraction
-	TF-IDF
-	Pre-traing CNN
+Feature Extraction:
+	Text:
+		Transformer-Based Feature Extraction:
+		TF-IDF
+	Image:
+		Pre-traing CNN
 
 Modeling
 	
-  Text Anlaysis similarty model using
+  Text Anlaysis similarty measure model using
 		Cosing Distance
 	
   
-  Image Anlysis model using
+  Image Anlysis similarty measure model using
 		K - nearest neighbor KNN
  
   
