@@ -32,3 +32,6 @@ Modeling
   
 ![image](https://user-images.githubusercontent.com/46527978/131696416-6ec1b01a-45b8-4dc2-ac37-fe27798b3797.png)
 ![image](https://user-images.githubusercontent.com/46527978/131696536-529ab076-d024-4014-9175-ffbad95ed099.png)
+BERT Transformer:
+	![image](https://github.com/yousif4111/PRODUCT-MATCHING/assets/46527978/30315182-cd36-4194-bc30-dfe199437af8)
+
