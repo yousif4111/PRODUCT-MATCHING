@@ -11,9 +11,13 @@ Data preprocessing and cleaning
 
 Feature Extraction:
 	Text:
-		Transformer-Based Feature Extraction:
+	
+		Transformer-Based Feature Extraction
+	
 		TF-IDF
+	
 	Image:
+	
 		Pre-traing CNN
 
 Modeling
